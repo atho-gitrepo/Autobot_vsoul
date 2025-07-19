@@ -1,1 +1,23 @@
+# Secrets
+config/secrets.yaml
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.json
+*.h5
+*.feather
